@@ -1,0 +1,11 @@
+<level width='3300' ink='220' speed='90' x='20' y='200'><destination width='-1' height='-1' x='2000' y='300'/><destination width='-1' height='-1' x='2000' y='300'/><enemy width='-1' height='-1' x='2000' y='300'/><enemy width='-1' height='-1' x='2000' y='300'/><ground width='-1' height='-1' x='2000' y='300'/><ground width='-1' height='-1' x='2000' y='300'/><ground width='10' height='2000' x='-5' y='1000'/><ground width='241' height='80' x='119' y='60'/><ground width='267' height='80' x='374' y='101'/><ground width='307' height='82' x='745' y='157'/><ground width='137' height='80' x='1087' y='253'/><ground width='137' height='80' x='1295' y='255'/><enemy width='110' height='90' x='1291' y='346'/><ground width='137' height='80' x='1515' y='187'/><ground width='399' height='80' x='1849' y='257'/><enemy width='110' height='90' x='1973' y='352'/><ground width='247' height='80' x='2274' y='317'/><ground width='137' height='80' x='2545' y='372'/><ground width='137' height='80' x='2716' y='420'/><ground width='365' height='80' x='2964' y='285'/><destination width='126' height='133' x='3112' y='526'/>
+    <gift width='-1' height='-1' x='1100' y='200'/>
+    <gift width='60' height='60' x='1800' y='400'/>
+    <gift width='60' height='60' x='700' y='300'/>
+    <gift width='60' height='60' x='1500' y='290'/>
+    <gift width='60' height='60' x='2500' y='550'/>
+    
+    <redink width='-1' height='-1' x='2000' y='300'/>
+    <redink width='40' height='40' x='800' y='220'/>
+    <redink width='40' height='40' x='1700' y='330'/>
+</level>

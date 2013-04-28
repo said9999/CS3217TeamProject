@@ -1,0 +1,18 @@
+<level width='4900' ink='200' speed='100' x='15' y='205'><destination width='-1' height='-1' x='2000' y='300'/><destination width='-1' height='-1' x='2000' y='300'/><enemy width='-1' height='-1' x='2000' y='300'/><enemy width='-1' height='-1' x='2000' y='300'/>
+    <ground width='-1' height='-1' x='2000' y='300'/>
+    <ground width='-1' height='-1' x='2000' y='300'/>
+    <ground width='10' height='2000' x='-5' y='1000'/>
+    <ground width='137' height='80' x='70' y='142'/>
+    <ground width='137' height='80' x='302' y='183'/>
+    <ground width='137' height='80' x='519' y='120'/><ground width='137' height='80' x='746' y='195'/><enemy width='110' height='90' x='750' y='281'/><ground width='561' height='80' x='1198' y='313'/><ground width='137' height='80' x='1745' y='158'/><ground width='137' height='80' x='1949' y='314'/><enemy width='110' height='90' x='1950' y='404'/><ground width='137' height='334' x='2164' y='473'/><ground width='137' height='80' x='2009' y='115'/><ground width='139' height='332' x='2262' y='84'/><ground width='137' height='80' x='2466' y='183'/><ground width='273' height='80' x='2844' y='208'/><enemy width='110' height='90' x='2902' y='290'/><ground width='137' height='80' x='2822' y='64'/><ground width='137' height='80' x='3110' y='95'/><ground width='357' height='82' x='3438' y='148'/><enemy width='110' height='90' x='3529' y='232'/><ground width='137' height='80' x='3336' y='8'/><ground width='137' height='80' x='3581' y='2'/><ground width='137' height='80' x='3817' y='-2'/><ground width='283' height='80' x='3903' y='145'/><enemy width='110' height='90' x='3960' y='234'/><ground width='137' height='80' x='4103' y='4'/><destination width='126' height='133' x='4698' y='540'/><ground width='137' height='80' x='4349' y='108'/><ground width='372' height='84' x='4327' y='338'/><ground width='137' height='80' x='4865' y='70'/><ground width='137' height='80' x='4596' y='153'/><ground width='137' height='80' x='4786' y='262'/>
+    <gift width='-1' height='-1' x='1100' y='200'/>
+    <gift width='60' height='60' x='2000' y='400'/>
+    <gift width='60' height='60' x='700' y='350'/>
+    <gift width='60' height='60' x='2822' y='300'/>
+      <gift width='60' height='60' x='4596' y='180'/>
+    <redink width='-1' height='-1' x='2000' y='300'/>
+
+    <redink width='40' height='40' x='1700' y='220'/>
+    <redink width='40' height='40' x='2222' y='270'/>
+    <redink width='40' height='40' x='3960' y='234'/>
+</level>
